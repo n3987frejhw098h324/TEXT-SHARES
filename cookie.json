@@ -1,7 +1,7 @@
 [
     {
         "domain": "www.pekora.zip",
-        "expirationDate": 1798209065.485436,
+        "expirationDate": 1801753780.287273,
         "hostOnly": true,
         "httpOnly": true,
         "name": ".PUPPYSECURITY",
@@ -10,6 +10,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzZXNzaW9uSWQiOiI4MzliM2U4Yy04N2MxLTQxNjEtYjg3Ny00NjUyYmRiOTE1NTMiLCJjcmVhdGVkQXQiOjE3NjY3NTk0MzZ9.N0f6s1Iw6gIu-4ZE-wPo5-6wFyl0_SC9xasTSNCkUflVtZ6z4nIIPfAXW2WF9Qv6paNKwrhrw1ZPShi3KxKqLA"
+        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzZXNzaW9uSWQiOiIyYzc3ZDlmYy02NjkwLTRmYWYtOGI2My1hOWVmZGE2M2NmMWQiLCJjcmVhdGVkQXQiOjE3NzAzMDQxNDJ9.VUS2r_nQ9_ZBniroAHk7DXh7VbPQl0XF6KrM0Eut0fhW2glIRvxelEfMZ0PorfLUWVzRg0vQMW_euRALa6TG8Q"
     }
 ]
